@@ -1,8 +1,8 @@
-# CIP-B103 Lab [#] – Wireless Forensics: WEP Key Recovery, Traffic Decryption & Object Carving
+# CIP-B103 Lab 9 – Wireless Forensics: WEP Key Recovery, Traffic Decryption & Object Carving
 
 **Student:** Fuseini Imoru Kantuogaa  
 **Course:** CIP-B103  
-**Lab:** Lab [#] – 802.11 Capture Analysis, WEP Cracking and Decrypted-Traffic Examination
+**Lab:** Lab 9 – 802.11 Capture Analysis, WEP Cracking and Decrypted-Traffic Examination
 
 ## Overview
 
